@@ -1,0 +1,22 @@
+{
+  "id": "john-smith",
+  "name": "John Smith",
+  "position": "RHP",
+  "notes": "Managing right shoulder soreness \u2014 keep pressing volume conservative through Week 2.",
+  "days": {
+    "MONDAY": {
+      "A2)": {
+        "weight": { "WK1": "20 lb", "WK2": "25 lb", "WK3": "25 lb", "WK4": "30 lb" }
+      },
+      "B1)": {
+        "name": "KB ARM BAR CHEST PRESS (LIGHT KB \u2014 SHOULDER)",
+        "note": "Use lighter KB and stop 2 reps short if shoulder barks"
+      }
+    },
+    "FRIDAY": {
+      "A1)": {
+        "weight": { "WK1": "185 lb", "WK2": "195 lb", "WK3": "205 lb", "WK4": "215 lb" }
+      }
+    }
+  }
+}
